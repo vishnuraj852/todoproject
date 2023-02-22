@@ -1,0 +1,19 @@
+.banner{
+background-color: #5247ba;
+width:100%;
+height:200px;
+margin-bottom:50px;
+margin-right:0;
+margin-left:0;
+
+}
+.container-fluid{
+background-color: #5247ba;
+}
+.banner-text{
+top:100px;
+
+left:47%;
+position:absolute;
+transform:transform;
+}
